@@ -25,9 +25,9 @@ Dataset Source Link :
 ## Created a virtual environment
 
 ```
-conda create -p venv python==3.8 
+conda create -p venv-1 python==3.8 
 ```
 ## Activate a virtual environment
 ```
-conda activate venv/
+conda activate venv-1/
 ```
